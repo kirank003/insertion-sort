@@ -1,0 +1,4 @@
+Start with the first element.
+Compare the current element with the next element.
+If the current element is greater than the next element, then swap both the elements. If not, move to the next element.
+Repeat steps 1 – 3 until we get the sorted list. To better understand bubble sort, recall the list that contains the elements 5, 3, 4, 2 initially.

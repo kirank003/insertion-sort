@@ -1,0 +1,6 @@
+Start from the first element of the array.
+Compare the target value with the current element.
+If the current element matches the target, return the index of the current element.
+If the current element doesn't match the target, move to the next element in the array.
+Repeat steps 2 to 4 until the target is found or until the end of the array is reached.
+If the target is not found in the array, return a special value (e.g., -1) to indicate that it's not present.
